@@ -1,6 +1,9 @@
 # HS-Workspace
 
-[![Terms](https://img.shields.io/badge/Terms-link-yellow?style=for-the-badge)](./Terms.md) [![Service](https://img.shields.io/badge/Service-link-green?style=for-the-badge)](./Service.md)
+## Link
+
+* [Terms & Conditions](Terms.md)
+* [Available Services](Service.md)
 
 ## Our team
 
