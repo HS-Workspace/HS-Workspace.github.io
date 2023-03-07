@@ -6,36 +6,10 @@
 
 We have been making plugins for years. Our plugins ranged from simple to complex ones. A lot of them are open-source and free to use. We also have experience in managing Minecraft servers.
 
-<table>
-  <tr>
-   <td><strong>Member</strong>
-   </td>
-   <td><strong>GitHub</strong>
-   </td>
-   <td><strong>Highlighted Projects</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>HSGamer
-<p>
-(Developer)
-   </td>
-   <td><a href="https://github.com/HSGamer">https://github.com/HSGamer</a> 
-   </td>
-   <td>BetterGUI, BetterBoard, BetterEconomy, HSCore, Topper
-   </td>
-  </tr>
-  <tr>
-   <td>anhcraft
-<p>
-(Developer)
-   </td>
-   <td><a href="https://github.com/anhcraft">https://github.com/anhcraft</a> 
-   </td>
-   <td>BattleGames, TimedItems, Portal, CraftKit
-   </td>
-  </tr>
-</table>
+| Member | Role | Highlighted Project |
+| --- | --- | --- |
+| [HSGamer](https://github.com/HSGamer) | Head, Developer | BetterGUI, BetterBoard, BetterEconomy, HSCore, Topper |
+| [anhcraft](https://github.com/anhcraft) | Developer | BattleGames, TimedItems, Portal, CraftKit |
 
 
 ## What can we do?
@@ -50,110 +24,24 @@ Possible features:
 * Web integration (basic UI/UX only)
 * Optimized and multi-threaded if possible
 
-<table>
-  <tr>
-   <td>
-<strong>Complexity</strong>
-   </td>
-   <td><strong>Examples</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Small
-   </td>
-   <td>Simple chat, Simple commands, Basic mechanism
-   </td>
-  </tr>
-  <tr>
-   <td>Medium
-   </td>
-   <td>Simple minigame or gamemode, GUI, effects
-   </td>
-  </tr>
-  <tr>
-   <td>Large
-   </td>
-   <td><em>Unavailable</em>
-   </td>
-  </tr>
-</table>
+| Complexity | Examples |
+| --- | --- |
+| Small | Simple chat, Simple commands, Basic mechanism |
+| Medium | Simple minigame or gamemode, GUI, effects |
+| Large | Unavailable |
 
 
 ## License packages
 
 We offer three ranges of pricing:
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Lite</strong>
-   </td>
-   <td><strong>Standard</strong>
-   </td>
-   <td><strong>Premium</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Hourly-rate
-   </td>
-   <td>$6/h
-   </td>
-   <td>$10/h
-   </td>
-   <td>$15/h
-   </td>
-  </tr>
-  <tr>
-   <td>Use & Modify
-   </td>
-   <td>✅
-   </td>
-   <td>✅
-   </td>
-   <td>✅
-   </td>
-  </tr>
-  <tr>
-   <td>Source-code
-<p>
-& raw files
-   </td>
-   <td>❌
-   </td>
-   <td>✅
-   </td>
-   <td>✅
-   </td>
-  </tr>
-  <tr>
-   <td>Redistribute
-<p>
-(original or modified)
-   </td>
-   <td><a href="https://emojipedia.org/warning/">⚠️</a> (Network-scope only)
-   </td>
-   <td><a href="https://emojipedia.org/warning/">⚠️</a> (Network-scope only)
-   </td>
-   <td>✅ 
-<p>
-(Public)
-   </td>
-  </tr>
-  <tr>
-   <td>Re-sell
-<p>
-(original or modified)
-   </td>
-   <td>❌
-   </td>
-   <td>❌
-   </td>
-   <td>✅
-   </td>
-  </tr>
-</table>
-
+| | Lite | Standard | Premium |
+| --- | --- | --- | --- |
+| Hourly-rate | $6/h | $10/h | $15/h |
+| Use & Modify | ✅ | ✅ | ✅ |
+| Source-code & raw files | ❌ | ✅ | ✅ |
+| Redistribute <br /> (original or modified) | ⚠️ (Network-scope only) | ⚠️ (Network-scope only) | ✅ (Public) |
+| Re-sell <br /> (original or modified) | ❌ | ❌ | ✅ |
 
 (* Network-scope: using inside your network only)
 
