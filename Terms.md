@@ -36,6 +36,7 @@ Every purchase goes through the following process:
     - Explicit details about the product
     - Delivery time estimation
     - Product cost
+
   - If there is a disaccord from either side:
     1. Another employee will take place. The process resumes from #2
     2. If no further action is taken within 3 days, the request will be temporarily terminated and the associated ticket will be closed.
