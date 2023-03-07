@@ -32,16 +32,16 @@ Every purchase goes through the following process:
 3. The employee is responsible for asking for further information.
 
 4. An agreement must be reached
-- with consideration given to the following three points
+  - with consideration given to the following three points
 
-  - Explicit details about the product
-  - Delivery time estimation
-  - Product cost
+    - Explicit details about the product
+    - Delivery time estimation
+    - Product cost
 
-- If there is a disaccord from either side:
+  - If there is a disaccord from either side:
 
-  1. Another employee will take place. The process resumes from #2
-  2. If no further action is taken within 3 days, the request will be temporarily terminated and the associated ticket will be closed.
+    1. Another employee will take place. The process resumes from #2
+    2. If no further action is taken within 3 days, the request will be temporarily terminated and the associated ticket will be closed.
 
 5. The customer is required to make a deposit of 50% of the total value of the product in order to initiate the work
 - The continuation of the process is contingent upon the receipt of payment. Failure to submit payment will result in the temporary termination of the request, and the associated ticket will be closed after a period of three days.
