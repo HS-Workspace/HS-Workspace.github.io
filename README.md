@@ -34,21 +34,14 @@ Possible features:
 | Large | Unavailable |
 
 
-## License packages
+## Pricing & License
 
-We offer three ranges of pricing:
-
-| | Lite | Standard | Premium |
-| --- | --- | --- | --- |
-| Hourly-rate | $6/h | $10/h | $15/h |
-| Use & Modify | ✅ | ✅ | ✅ |
-| Source-code & raw files | ❌ | ✅ | ✅ |
-| Redistribute <br /> (original or modified) | ⚠️ (Network-scope only) | ⚠️ (Network-scope only) | ✅ (Public) |
-| Re-sell <br /> (original or modified) | ❌ | ❌ | ✅ |
-
-(* Network-scope: using inside your network only)
-
-Besides that, there is no difference in terms of features and performance between the three packages.
+1. Standard price: $10/h
+   - You can not redistribute the plugin out of your network
+   - You will not obtain the source-code
+2. Source-code access: 50% of standard cost
+   - You can redistribute the plugin publicly
+   - You will obtain the source-code and relevant files
 
 ## After-sales
 

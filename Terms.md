@@ -1,6 +1,6 @@
 # Terms and conditions
 
-Our Terms and Conditions ("Terms") was last updated on February 20, 2023.
+Our Terms and Conditions ("Terms") was last updated on April 16, 2023.
 
 Please read these terms carefully before using our service.
 
@@ -82,20 +82,14 @@ We accept payment via Paypal only. You may not charge-back or dispute any paymen
 2. Final 50% payment
 - The order is not refundable after the final payment is made.
 
-## License
+## Pricing & License
 
-1. Lite Package
-- Customers are permitted to Use, Modify and Redistribute the product inside their network scope
-- Customers may not Redistribute the product (including any modifications) out of their network scope
-
-2. Standard Package
-- Customers are permitted to Use, Modify and Redistribute the product inside their network scope
-- Customers may not Redistribute the product (including any modifications) out of their network scope
-- Customers receive all raw files and source code related to the product
-
-3. Premium Package
-- Redistribute the product (including any modifications) out of their network scope
-- Sell the original (or modified) product
+1. Standard price: $10/h
+  - You can not redistribute the plugin out of your network
+  - You will not obtain the source-code
+2. Source-code access: 50% of standard cost
+  - You can redistribute the plugin publicly
+  - You will obtain the source-code and relevant files
 
 ## Termination
 
