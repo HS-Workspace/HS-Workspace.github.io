@@ -31,7 +31,7 @@ Possible features:
 | --- | --- |
 | Small | Simple chat, Simple commands, Basic mechanism |
 | Medium | Simple minigame or gamemode, GUI, effects |
-| Large | Unavailable |
+| Large | *Projects that we think it'd take a long time* |
 
 
 ## Pricing & License
